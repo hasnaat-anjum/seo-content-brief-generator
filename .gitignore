@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+briefs.json
+briefs.json.bak
+.briefs-*.tmp
+.DS_Store
